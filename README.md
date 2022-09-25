@@ -1,1 +1,2 @@
-# approaches-of-paraphrase-identification-in-NLP
+### Approaches of paraphrase identification in NLP
+This essay focuses on various approaches for paraphrase identification that uses different text similarity measures with machine learning, and deep learning models. The dataset considered here is the Microsoft Research Paraphrase Corpus (MSRP) which is evaluated in all of the approaches that are the focus of this essay. It contains 5,801 sentence pairs extracted from news articles. Each sentence pair contains a human-annotated label that denotes if the pair has paraphrase equivalence or not.
